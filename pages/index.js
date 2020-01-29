@@ -1,9 +1,12 @@
 import Layout from "../components/layout";
+import Tabs from "../components/tabs";
 
 function Index() {
 	return (
 		<Layout>
-			<h1>Index</h1>
+			<h1>Current McDonalds Wrap of the day.</h1>
+
+			<Tabs />
 		</Layout>
 	);
 }
