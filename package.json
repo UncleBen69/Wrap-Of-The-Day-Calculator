@@ -1,0 +1,24 @@
+{
+  "name": "wrap-of-the-day-display",
+  "version": "1.0.0",
+  "description": "Show you todays wrap of the day",
+  "scripts": {
+    "dev": "next",
+    "build": "next build && next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UncleBen69/Wrap-Of-The-Day-Calculator.git"
+  },
+  "author": "Vadim Alexeev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UncleBen69/Wrap-Of-The-Day-Calculator/issues"
+  },
+  "homepage": "https://github.com/UncleBen69/Wrap-Of-The-Day-Calculator#readme",
+  "dependencies": {
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
